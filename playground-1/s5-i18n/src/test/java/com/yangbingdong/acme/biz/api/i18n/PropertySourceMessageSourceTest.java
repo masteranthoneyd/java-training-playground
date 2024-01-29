@@ -28,8 +28,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * {@link PropertySourceMessageSource} Test
  *
- * @author <a href="mailto:mercyblitz@gmail.com">Mercy</a>
- * @since 1.0.0
+ * @author yangbingdong1994@gmail.com
  */
 public class PropertySourceMessageSourceTest {
 
